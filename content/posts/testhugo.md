@@ -1,7 +1,7 @@
 ---
 title: "Testhugo"
 date: 2024-04-04T15:37:29+08:00
-draft: true
+draft: false
 ---
 
 # 测试一下HUGO
